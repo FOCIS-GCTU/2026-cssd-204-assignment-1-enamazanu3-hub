@@ -9,7 +9,7 @@ def print_initials():  # A function to print initials
 # STUDENT ID:2425404665
 # Email: 2425404665@live.gctu.edu.gh
 # Grader: Augustus
-# On my honor, Augustus Anthoinette, this programming assignment is my own work
+# On my honor, Anthoinette Azanu, this programming assignment is my own work
 # and I have not provided this code to any other student.
 
     print("   ...AEA")
